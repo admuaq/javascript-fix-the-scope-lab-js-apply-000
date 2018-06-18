@@ -1,4 +1,5 @@
 var animal = 'dog'
+const two;
 
 function myAnimal() {
   return animal
